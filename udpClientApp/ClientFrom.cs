@@ -50,7 +50,7 @@ namespace udpClientApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox("Please Enter Correct values");
+            MessageBox.Show("Please Enter Correct values");
 
         }
     }
